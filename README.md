@@ -1,6 +1,6 @@
-# Sports League Management System
+# 🏆 Sports League Management System
 
-This project is a **Sports League Management System** designed to efficiently manage and track the details of players, teams, games, venues, leagues, referees, and sponsors in a structured database. The system is modeled using an **Entity-Relationship (ER) diagram**, which provides a clear representation of the relationships between various entities involved in organizing and managing a sports league.
+This project is a **Sports League Management System** designed to efficiently manage and track the details of players, teams, games, venues, leagues, referees, and sponsors in a structured database. The system is modeled using an **Entity-Relationship (ER) diagram**, providing a clear representation of the relationships between various entities involved in organizing and managing a sports league.
 
 ## Key Features
 
@@ -29,10 +29,11 @@ This system can be used by:
 
 ## Technology and Tools
 
-The database schema is designed to ensure data integrity, enforce relationships, and support scalability for future enhancements.
+- **Database:** MySQL for structured and scalable data management.
+- **System Design:** ER diagram designed using **draw.io** for clear relationship mapping.
+  
+## ER Diagram
 
-The **ER diagram**, included in this repository, serves as the blueprint for database implementation.
+The **ER diagram**, included in this repository, serves as the blueprint for database implementation, showing the relationships and structure of the system.
 
----
 
-Feel free to explore the repository for more details!
